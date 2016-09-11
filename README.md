@@ -1,5 +1,7 @@
-蓝山工作室 - 周报制度
+蓝山工作室 - 周报制度  [`pdf`](https://github.com/lanshan-studio/weekly/blob/master/蓝山工作室-周报制度.pdf)
 ===
+
+[`前端`](https://github.com/lanshan-studio/weekly-fe) [`后端`](https://github.com/lanshan-studio/weekly-be) [`移动端`](https://github.com/lanshan-studio/weekly-mobile) [`其他`](https://github.com/lanshan-studio/weekly-other)
 
 > 现状/背景：
 > 
@@ -29,28 +31,28 @@
 ###### 周会&周报规则
 
 1. **每位成员**在参加完**小组周会**后将【**个人周报**】整理发送至：（**2个地方**）
-   - **Github**（以Issues的形式提交）
-     - 进入本组对应repo中提交Issues
-       - Web前端：https://github.com/lanshan-studio/weekly-fe/issues
-       - Web后端（PHP、Java）：https://github.com/lanshan-studio/weekly-be/issues
-       - 移动端（Android、iOS）：https://github.com/lanshan-studio/weekly-mobile/issues
-       - 其他（运营策划、视觉设计）：https://github.com/lanshan-studio/weekly-other/issues
-     - 点击按钮 `New issue` 
-     - Title：标题格式如:  `【周报】2016年秋期-第3周-姓名`  （上学期为秋期，下学期为春期） 
-     - Write：内容格式为:  列表（markdown）
-   - **组内内部QQ群**（全部内容，以文字消息的形式发送）
+  - **Github**（以Issues的形式提交）
+    - 进入本组对应repo中提交Issues
+      - Web前端：https://github.com/lanshan-studio/weekly-fe/issues
+      - Web后端（PHP、Java）：https://github.com/lanshan-studio/weekly-be/issues
+      - 移动端（Android、iOS）：https://github.com/lanshan-studio/weekly-mobile/issues
+      - 其他（运营策划、视觉设计）：https://github.com/lanshan-studio/weekly-other/issues
+    - 点击按钮 `New issue` 
+    - Title：标题格式如:  `【周报】2016年秋期-第3周-姓名`  （上学期为秋期，下学期为春期） 
+    - Write：内容格式为:  列表（markdown）
+  - **组内内部QQ群**（全部内容，以文字消息的形式发送）
 2. 每组派一个组员担任**master**：
-   - 负责组织**组内周会**，督促**小组周报**；
-   - 任期2周，每2周一轮换，结束前分派下一任master；
-   - 与此同时，负责代表本组参加**两周分享交流会**（详见下文）。
+    - 负责组织**组内周会**，督促**小组周报**；
+    - 任期2周，每2周一轮换，结束前分派下一任master；
+    - 与此同时，负责代表本组参加**两周分享交流会**（详见下文）。
 3. **master每周日前**汇总【**小组周报**】整理发送至：（**3个地方**）
-   - **Github**（以Issues的形式提交）https://github.com/lanshan-studio/weekly/issues
-     - 点击按钮 `New issue `
-     - **Title**：标题格式如:  `【周报】2016年秋期-第3周`  （上学期为秋期，下学期为春期） 
-     - **Write**：内容格式为:  每个组员的名字为一级标题，内容为列表（markdown）
-     - **Labels**：选择各小组名:  `前端` `后端` `移动端` `其他` 
-   - **组内内部QQ群**（仅发送**小组名 - Issues链接**即可）
-   - **蓝山工作室QQ大群**（仅发送**小组名 - Issues链接**即可）
+  - **Github**（以Issues的形式提交）https://github.com/lanshan-studio/weekly/issues
+    - 点击按钮 `New issue `
+    - **Title**：标题格式如:  `【周报】2016年秋期-第3周`  （上学期为秋期，下学期为春期） 
+    - **Write**：内容格式为:  每个组员的名字为一级标题，内容为列表（markdown）
+    - **Labels**：选择各小组名:  `前端` `后端` `移动端` `其他` 
+  - **组内内部QQ群**（仅发送**小组名 - Issues链接**即可）
+  - **蓝山工作室QQ大群**（仅发送**小组名 - Issues链接**即可）
 
 
 
@@ -74,11 +76,11 @@
 - 根据**小组**两周周报中的亮点，提炼为干货介绍
 
 1. 所有分享文档由 **@工作室室长** 在会议结束后汇总整理【**分享内容**】发送至：（**2个地方**）
-   - **Github**（以Wiki的形式提交）https://github.com/lanshan-studio/weekly/wiki
-     - 点击按钮 `New Page` 
-     - **Title**：标题格式如:  `【分享交流会】2016年秋期-第1次分享交流会`  （上学期为秋期，下学期为春期） 
-     - **Write**：内容格式为:  每个方向名为一级标题，内容为各组分享文档（markdown）
-   - **蓝山工作室QQ大群**（仅发送**wiki链接**即可）
+  - **Github**（以Wiki的形式提交）https://github.com/lanshan-studio/weekly/wiki
+    - 点击按钮 `New Page` 
+    - **Title**：标题格式如:  `【分享交流会】2016年秋期-第1次分享交流会`  （上学期为秋期，下学期为春期） 
+    - **Write**：内容格式为:  每个方向名为一级标题，内容为各组分享文档（markdown）
+  - **蓝山工作室QQ大群**（仅发送**wiki链接**即可）
 
 ---
 
