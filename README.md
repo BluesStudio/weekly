@@ -1,7 +1,9 @@
 蓝山工作室 - 周报制度  [`pdf`](https://github.com/lanshan-studio/weekly/blob/master/蓝山工作室-周报制度.pdf)
 ===
 
-[`前端`](https://github.com/lanshan-studio/weekly-fe) [`后端`](https://github.com/lanshan-studio/weekly-be) [`移动端`](https://github.com/lanshan-studio/weekly-mobile) [`其他`](https://github.com/lanshan-studio/weekly-other)
+[`Master`](https://github.com/lanshan-studio/weekly) [`前端`](https://github.com/lanshan-studio/weekly-fe) [`后端`](https://github.com/lanshan-studio/weekly-be) [`移动端`](https://github.com/lanshan-studio/weekly-mobile) [`其他`](https://github.com/lanshan-studio/weekly-other)
+
+[`周报`](https://github.com/lanshan-studio/weekly/issues) [`分享交流会`](https://github.com/lanshan-studio/weekly/wiki)
 
 > 现状/背景：
 > 
@@ -33,8 +35,8 @@
 1. **每位成员**在参加完**小组周会**后将【**个人周报**】整理发送至：（**2个地方**）
   - **Github**（以Issues的形式提交）
     - 进入本组对应repo中提交Issues
-      - Web前端：https://github.com/lanshan-studio/weekly-fe/issues
-      - Web后端（PHP、Java）：https://github.com/lanshan-studio/weekly-be/issues
+      - 前端：https://github.com/lanshan-studio/weekly-fe/issues
+      - 后端（PHP、Java）：https://github.com/lanshan-studio/weekly-be/issues
       - 移动端（Android、iOS）：https://github.com/lanshan-studio/weekly-mobile/issues
       - 其他（运营策划、视觉设计）：https://github.com/lanshan-studio/weekly-other/issues
     - 点击按钮 `New issue` 
