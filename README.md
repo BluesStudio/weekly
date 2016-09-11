@@ -1,4 +1,4 @@
-# 蓝山工作室 - 周报制度  [`pdf`](http://weekly.lanshan.studio/index.pdf)
+# 蓝山工作室 - 周报制度  [`web`](http://weekly.lanshan.studio) [`pdf`](http://weekly.lanshan.studio/index.pdf)
 
 [`Master`](https://github.com/lanshan-studio/weekly) [`前端`](https://github.com/lanshan-studio/weekly-fe) [`后端`](https://github.com/lanshan-studio/weekly-be) [`移动端`](https://github.com/lanshan-studio/weekly-mobile) [`其他`](https://github.com/lanshan-studio/weekly-other)
 
