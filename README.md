@@ -1,8 +1,8 @@
-# 蓝山工作室 - 周报制度  [`pdf`](https://github.com/lanshan-studio/weekly/blob/master/蓝山工作室-周报制度.pdf)
+# 蓝山工作室 - 周报制度  [`pdf`](http://weekly.lanshan.studio/index.pdf)
 
 [`Master`](https://github.com/lanshan-studio/weekly) [`前端`](https://github.com/lanshan-studio/weekly-fe) [`后端`](https://github.com/lanshan-studio/weekly-be) [`移动端`](https://github.com/lanshan-studio/weekly-mobile) [`其他`](https://github.com/lanshan-studio/weekly-other)
 
-[`周报`](https://github.com/lanshan-studio/weekly/issues) [`分享交流会`](https://github.com/lanshan-studio/weekly/wiki)
+[`Master周报`](https://github.com/lanshan-studio/weekly/issues) [`分享交流会Wiki`](https://github.com/lanshan-studio/weekly/wiki)
 
 > 现状/背景：
 >
@@ -39,7 +39,7 @@
     - 后端（PHP、Java）：https://github.com/lanshan-studio/weekly-be/issues
     - 移动端（Android、iOS）：https://github.com/lanshan-studio/weekly-mobile/issues
     - 其他（运营策划、视觉设计）：https://github.com/lanshan-studio/weekly-other/issues
-  - 点击按钮 `New issue` 
+  - 点击按钮 `New issue` ，每周每人一个Issue
   - Title：标题格式如:  `【周报】2016年秋期-第3周-姓名`  （上学期为秋期，下学期为春期） 
   - Write：内容格式为:  列表（markdown）
 - **组内内部QQ群**（全部内容，以文字消息的形式发送）
@@ -48,15 +48,17 @@
    - 负责组织**组内周会**，督促**小组周报**；
    - 任期2周，每2周一轮换，结束前分派下一任master；
    - 与此同时，负责代表本组参加**两周分享交流会**（详见下文）。
-2. **master每周日前**汇总成员周报为【**小组周报**】整理发送至：（**3个地方**）
+2. **master每周日前**将成员个人周报**汇总整理**为【**小组周报**】发送至：（**3个地方**）
 
 - **Github**（以Issues的形式提交）https://github.com/lanshan-studio/weekly/issues
-  - 点击按钮 `New issue `
+  - 点击按钮 `New issue `，每周每组一个Issue
   - **Title**：标题格式如:  `【周报】2016年秋期-第3周`  （上学期为秋期，下学期为春期） 
   - **Write**：内容格式为:  每个组员的名字为一级标题，内容为列表（markdown）
   - **Labels**：选择各小组名:  `前端` `后端` `移动端` `其他` 
 - **组内内部QQ群**（仅发送**小组名 - Issues链接**即可）
   - **蓝山工作室QQ大群**（仅发送**小组名 - Issues链接**即可）
+
+
 
 ### 两周分享交流会
 
@@ -76,14 +78,13 @@
 - 介绍**自己**最近学习的新技术/难点及解决
 - 根据**小组**两周周报中的亮点，提炼为干货介绍
 
-3. 所有分享文档由 **@工作室室长** 在会议结束后汇总整理【**分享内容**】发送至：（**2个地方**）
+3. 所有分享文档由 **@工作室室长** 在会议结束后**汇总整理**为【**分享交流会Wiki**】发送至：（**2个地方**）
 
 - **Github**（以Wiki的形式提交）https://github.com/lanshan-studio/weekly/wiki
-  - 点击按钮 `New Page` ，每次每个方向单独一个`Page`
+  - 点击按钮 `New Page` ，每次每个方向一个Page
   - **Title**：标题格式如:  `【分享交流会】2016年秋期-第1次分享交流会-前端`  （上学期为秋期，下学期为春期） 
   - **Write**：内容格式为:  内容为各组分享文档（markdown）
 - **蓝山工作室QQ大群**（仅发送**wiki链接**即可）
-
 
 
 ------
@@ -92,23 +93,26 @@
 
 ### 附：周报制度解读 - TODO
 
-1、每位成员
+#### 1、每位成员
 
 - **每周五或周六**：参加小组周会
-- **小组周会结束后**：写本周周报
+- **小组周会结束后**（每周日前）：写本周周报
 - **每两周**：倾听分享交流会
 
-2、各组周报master
+#### 2、各组周报master
 
 - **两周一任**
 - **每周五或周六**：组织并参加小组周会
-- **小组周会结束后**：督促大家写本周周报，并将自己的一起汇总整理
+- **小组周会结束后**（每周日前）：督促大家写本周个人周报，并将自己的一起汇总整理为小组周报
 - **任期内（每两周）**：负责分享交流会，参与分享
 
-3、工作室室长
+#### 3、工作室室长
 
-- 负责督促各组周报master整理小组周报
-- 负责组织分享交流会，并整理分享内容
+- 负责督促每人每组完成个人周报和小组周报
+- 负责组织分享交流会，并汇总整理为分享交流会Wiki
+
+
+
 
 ------
 
